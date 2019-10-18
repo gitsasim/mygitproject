@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Features"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-expressions-6.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-java-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-java8-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-junit-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-picocontainer-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/cucumber-tag-expressions-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/datatable-1.1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/datatable-dependencies-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/junit-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/picocontainer-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z003tp0r/Downloads/Selenium/Cucumber jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
